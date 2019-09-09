@@ -1,2 +1,4 @@
 name: lvp
 type: test
+server:
+  port: 4444
